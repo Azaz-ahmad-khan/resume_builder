@@ -1,13 +1,13 @@
 PERSONAL INFO : 
- Name:  azaz ahmad khan
+ Name:  Azaz Ahmad Khan
  Email: azaz@gmail.com
  Phone : 03318590654
- Adress : hassan khel issaki bannu
+ Adress : Hassan Khel Issaki Bannu
 EDUCATION  : 
- Bechelors in :computer systems engineering
- From Institute :uet peshawar
+ Bechelors in :COMPUTER SYSTEMS ENGINEERING
+ From Institute :UET PESHAWAR
  Year of Graduation is :2025
 EXPERIENCE : 
-  Job At :motivecompany 
- At Post :app developer
+  Job At :DEV TECH NINJAScompany 
+ At Post :APP DEVELOPER
  For :5years

@@ -47,7 +47,7 @@ void ResumeGenerator::mdTemplate1(const Education &edu, const Experience &exp, P
     file << "##### ⭐ *Ready to contribute and make a difference!*\n";
 
     file.close();
-    cout << " successfully added data ";
+    cout << " successfully added data \n";
 }
 
 void ResumeGenerator::mdTemplate2(const Education &edu, const Experience &exp, PersonalInfo &p)

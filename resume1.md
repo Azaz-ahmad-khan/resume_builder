@@ -1,18 +1,18 @@
-# 🚀 azaz ahmad khan
+# 🚀 Azaz Ahmad Khan
 
 #### *Innovating the Future, One Line of Code at a Time*
 
 ---
 
-**📧 Email:** azaz@gmail.com | **📱 Phone:** 03318590654 | **🏠 Location:** hassan khel issaki bannu
+**📧 Email:** azaz@gmail.com | **📱 Phone:** 03318590654 | **🏠 Location:** Hassan Khel Issaki Bannu
 
 ---
 
 ## 🎓 **EDUCATION**
 
-### 🏛️ **computer systems engineering**
+### 🏛️ **COMPUTER SYSTEMS ENGINEERING**
 
-**🏫 Institution:** uet peshawar
+**🏫 Institution:** UET PESHAWAR
 
 **📅 Graduation Year:** 2025
 
@@ -22,9 +22,9 @@
 
 ## 💼 **PROFESSIONAL EXPERIENCE**
 
-### 🌟 **app developer**
+### 🌟 **APP DEVELOPER**
 
-**🏢 Company:** motive
+**🏢 Company:** DEV TECH NINJAS
 
 **⏰ Duration:** 5 years
 

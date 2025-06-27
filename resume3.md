@@ -1,6 +1,6 @@
 # 📋 **EXECUTIVE RESUME**
 
-## azaz ahmad khan
+## Azaz Ahmad Khan
 
 ### *Transforming Vision into Reality*
 
@@ -12,7 +12,7 @@
 |:----------------:|:-----------:|:----------:|
 | 📧 **Email** | azaz@gmail.com | ✅ Active |
 | 📱 **Phone** | 03318590654 | ✅ Available |
-| 🏠 **Address** | hassan khel issaki bannu | 📍 Current |
+| 🏠 **Address** | Hassan Khel Issaki Bannu | 📍 Current |
 
 ---
 
@@ -20,8 +20,8 @@
 
 | **Category** | **Information** | **Achievement** |
 |:------------:|:---------------:|:---------------:|
-| **Degree Program** | computer systems engineering | 🌟 Completed |
-| **Institution** | uet peshawar | 🏛️ Prestigious |
+| **Degree Program** | COMPUTER SYSTEMS ENGINEERING | 🌟 Completed |
+| **Institution** | UET PESHAWAR | 🏛️ Prestigious |
 | **Graduation Year** | 2025 | 📅 On Schedule |
 
 > **🎯 Educational Philosophy:**
@@ -33,8 +33,8 @@
 
 | **Professional Aspect** | **Details** | **Impact Level** |
 |:------------------------:|:-----------:|:----------------:|
-| **Current Position** | app developer | 🎯 Leadership |
-| **Organization** | motive | 🏢 Excellence |
+| **Current Position** | APP DEVELOPER | 🎯 Leadership |
+| **Organization** | DEV TECH NINJAS | 🏢 Excellence |
 | **Experience Duration** | 5 years | ⏰ Committed |
 
 > **💪 Professional Values:**

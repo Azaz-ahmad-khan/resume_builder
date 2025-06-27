@@ -11,8 +11,8 @@ public:
     string role;
     string duration;
 
-    void inputData();      // Collects experience details from user
-    string getFormatted(); // Returns formatted experience as string
+    void inputData();
+    string getFormatted();
 };
 
 #endif

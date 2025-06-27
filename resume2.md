@@ -4,7 +4,7 @@
 ═══════════════════════════════════════════════════════════════
 ```
 
-# 👨‍💻 azaz ahmad khan
+# 👨‍💻 Azaz Ahmad Khan
 
 ## *Building Tomorrow's Solutions Today*
 
@@ -13,15 +13,15 @@
 ```yaml
 📧 Email    : azaz@gmail.com
 📱 Phone    : 03318590654
-🏠 Address  : hassan khel issaki bannu
+🏠 Address  : Hassan Khel Issaki Bannu
 🌐 Status   : Available for opportunities
 ```
 
 ### 🎯 **Academic Foundation**
 
 ```diff
-+ 🎓 Degree      : computer systems engineering
-+ 🏛️ Institution : uet peshawar
++ 🎓 Degree      : COMPUTER SYSTEMS ENGINEERING
++ 🏛️ Institution : UET PESHAWAR
 + 📅 Year        : 2025
 + 🏆 Status      : Successfully Completed
 ```
@@ -32,8 +32,8 @@
 ### 🚀 **Professional Journey**
 
 ```diff
-+ 💼 Role        : app developer
-+ 🏢 Company     : motive
++ 💼 Role        : APP DEVELOPER
++ 🏢 Company     : DEV TECH NINJAS
 + ⏱️ Duration    : 5 years
 + 📈 Impact      : Delivering Excellence
 ```

@@ -16,6 +16,8 @@ int main()
     Experience exp;
     ResumeGenerator mdGenerator;
 
+    cout << "WELCOM TO THE RESUME GENERATOR \n";
+
     person.inputData();
     education.inputData();
     exp.inputData();
