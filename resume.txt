@@ -1,13 +1,13 @@
 PERSONAL INFO : 
- Name:  Azaz Ahmad Khan
- Email: azaz@gmail.com
- Phone : 03318590654
- Adress : Hassan Khel Issaki Bannu
+ Name:  M MOHSIN KHAN
+ Email: mohsinkhanmandan@gmail.com
+ Phone : 03315265967
+ Adress : DALO KHEL MANDAN BANNU
 EDUCATION  : 
  Bechelors in :COMPUTER SYSTEMS ENGINEERING
- From Institute :UET PESHAWAR
- Year of Graduation is :2025
+ From Institute :UNIVERSITY OF ENGINEERING AND TECHNOLOGY PESHAWAR
+ Year of Graduation is :2028
 EXPERIENCE : 
   Job At :DEV TECH NINJAScompany 
  At Post :APP DEVELOPER
- For :5years
+ For :2years

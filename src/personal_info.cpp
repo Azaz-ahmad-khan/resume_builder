@@ -1,5 +1,3 @@
-// src/personal_info.cpp
-
 #include "../include/personal_info.h"
 #include <iostream>
 using namespace std;

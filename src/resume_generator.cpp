@@ -10,15 +10,14 @@ using namespace std;
 
 void ResumeGenerator::mdTemplate1(const Education &edu, const Experience &exp, PersonalInfo &p)
 {
-    std::ofstream file("resume1.md");
+    ofstream file("resume1.md");
     if (!file.is_open())
     {
-        std::cout << " Failed to open file\n";
+        cout << " Failed to open file\n";
         return;
     }
     file.clear();
 
-    // Modern Professional Template - Pure Markdown
     file << "# 🚀 " << p.name << "\n\n";
     file << "#### *Innovating the Future, One Line of Code at a Time*\n\n";
 
@@ -62,7 +61,6 @@ void ResumeGenerator::mdTemplate2(const Education &edu, const Experience &exp, P
     {
         file.clear();
 
-        // Creative Tech-Style Template
         file << "```\n";
         file << "═══════════════════════════════════════════════════════════════\n";
         file << "                    🌟 RESUME PORTFOLIO 🌟                    \n";
