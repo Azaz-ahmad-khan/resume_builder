@@ -1,10 +1,10 @@
-# 🚀 M MOHSIN KHAN
+# 🚀 AZAZ AHMAD KHAN
 
 #### *Innovating the Future, One Line of Code at a Time*
 
 ---
 
-**📧 Email:** mohsinkhanmandan@gmail.com | **📱 Phone:** 03315265967 | **🏠 Location:** DALO KHEL MANDAN BANNU
+**📧 Email:** 24pwcse2356@uetp.edu.pk | **📱 Phone:** 03318590654 | **🏠 Location:** HASSAN KHEL ISSAKI BANNU
 
 ---
 
@@ -12,9 +12,9 @@
 
 ### 🏛️ **COMPUTER SYSTEMS ENGINEERING**
 
-**🏫 Institution:** UNIVERSITY OF ENGINEERING AND TECHNOLOGY PESHAWAR
+**🏫 Institution:** UET PESHAWAR
 
-**📅 Graduation Year:** 2028
+**📅 Graduation Year:** 2025
 
 *"Knowledge is the foundation of all great achievements"*
 
@@ -24,9 +24,9 @@
 
 ### 🌟 **APP DEVELOPER**
 
-**🏢 Company:** DEV TECH NINJAS
+**🏢 Company:** MOTIVE
 
-**⏰ Duration:** 2 years
+**⏰ Duration:** 4  years
 
 *"Excellence is not a skill, it's an attitude"*
 

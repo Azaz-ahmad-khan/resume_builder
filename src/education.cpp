@@ -4,6 +4,7 @@ using namespace std;
 
 void Education::inputData()
 {
+    cout << "\n=========EDUCATION INFO ========\n";
     cout << "please enter the name of your degree:";
     getline(cin, degree);
     cout << "Enter the name of institute:";

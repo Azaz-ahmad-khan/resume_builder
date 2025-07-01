@@ -1,6 +1,6 @@
 # 📋 **EXECUTIVE RESUME**
 
-## M MOHSIN KHAN
+## AZAZ AHMAD KHAN
 
 ### *Transforming Vision into Reality*
 
@@ -10,9 +10,9 @@
 
 | **Contact Type** | **Details** | **Status** |
 |:----------------:|:-----------:|:----------:|
-| 📧 **Email** | mohsinkhanmandan@gmail.com | ✅ Active |
-| 📱 **Phone** | 03315265967 | ✅ Available |
-| 🏠 **Address** | DALO KHEL MANDAN BANNU | 📍 Current |
+| 📧 **Email** | 24pwcse2356@uetp.edu.pk | ✅ Active |
+| 📱 **Phone** | 03318590654 | ✅ Available |
+| 🏠 **Address** | HASSAN KHEL ISSAKI BANNU | 📍 Current |
 
 ---
 
@@ -21,8 +21,8 @@
 | **Category** | **Information** | **Achievement** |
 |:------------:|:---------------:|:---------------:|
 | **Degree Program** | COMPUTER SYSTEMS ENGINEERING | 🌟 Completed |
-| **Institution** | UNIVERSITY OF ENGINEERING AND TECHNOLOGY PESHAWAR | 🏛️ Prestigious |
-| **Graduation Year** | 2028 | 📅 On Schedule |
+| **Institution** | UET PESHAWAR | 🏛️ Prestigious |
+| **Graduation Year** | 2025 | 📅 On Schedule |
 
 > **🎯 Educational Philosophy:**
 > *"The beautiful thing about learning is that no one can take it away from you."*
@@ -34,8 +34,8 @@
 | **Professional Aspect** | **Details** | **Impact Level** |
 |:------------------------:|:-----------:|:----------------:|
 | **Current Position** | APP DEVELOPER | 🎯 Leadership |
-| **Organization** | DEV TECH NINJAS | 🏢 Excellence |
-| **Experience Duration** | 2 years | ⏰ Committed |
+| **Organization** | MOTIVE | 🏢 Excellence |
+| **Experience Duration** | 4  years | ⏰ Committed |
 
 > **💪 Professional Values:**
 > *"Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution."*

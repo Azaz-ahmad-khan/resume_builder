@@ -5,6 +5,7 @@ using namespace std;
 
 void Experience::inputData()
 {
+    cout << "\n========EXPERIENCE INFO=========\n";
     cout << "Enter the name of company you worked in : ";
     getline(cin, company);
     cout << "what was your role in the company :";

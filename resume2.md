@@ -4,16 +4,16 @@
 ═══════════════════════════════════════════════════════════════
 ```
 
-# 👨‍💻 M MOHSIN KHAN
+# 👨‍💻 AZAZ AHMAD KHAN
 
 ## *Building Tomorrow's Solutions Today*
 
 ### 📬 **Contact Hub**
 
 ```yaml
-📧 Email    : mohsinkhanmandan@gmail.com
-📱 Phone    : 03315265967
-🏠 Address  : DALO KHEL MANDAN BANNU
+📧 Email    : 24pwcse2356@uetp.edu.pk
+📱 Phone    : 03318590654
+🏠 Address  : HASSAN KHEL ISSAKI BANNU
 🌐 Status   : Available for opportunities
 ```
 
@@ -21,8 +21,8 @@
 
 ```diff
 + 🎓 Degree      : COMPUTER SYSTEMS ENGINEERING
-+ 🏛️ Institution : UNIVERSITY OF ENGINEERING AND TECHNOLOGY PESHAWAR
-+ 📅 Year        : 2028
++ 🏛️ Institution : UET PESHAWAR
++ 📅 Year        : 2025
 + 🏆 Status      : Successfully Completed
 ```
 
@@ -33,8 +33,8 @@
 
 ```diff
 + 💼 Role        : APP DEVELOPER
-+ 🏢 Company     : DEV TECH NINJAS
-+ ⏱️ Duration    : 2 years
++ 🏢 Company     : MOTIVE
++ ⏱️ Duration    : 4  years
 + 📈 Impact      : Delivering Excellence
 ```
 

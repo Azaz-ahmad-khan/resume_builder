@@ -32,7 +32,8 @@ int main()
     out << experience_info;
     out.close();
     int choice;
-    cout << "Select the template Enter 1 OR 2 OR 3 for Building All templates press 4 :";
+    cout << "\n=======CHOICE OF .md TEMPLATE=========\n";
+    cout << "Select the template Enter 1 OR 2 OR 3\n for Building All templates press 4 :";
     cin >> choice;
     cout << "\n";
     switch (choice)

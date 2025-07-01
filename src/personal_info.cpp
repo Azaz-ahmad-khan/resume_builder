@@ -4,6 +4,7 @@ using namespace std;
 
 void PersonalInfo::inputData()
 {
+    cout << "\n=========PERSONAL INFO==========\n";
     cout << "Enter Name: ";
     getline(cin, name);
     cout << "Enter Email: ";
